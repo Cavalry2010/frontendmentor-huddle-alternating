@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-alternating-feature-blocks-GHDIzPpdZq)
 - Live Site URL: [Huddle Landing Page](https://huddle-alternating-alejandro.netlify.app)
 
 ## My process
